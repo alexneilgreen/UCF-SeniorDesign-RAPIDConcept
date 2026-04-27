@@ -33,9 +33,7 @@ RAPID is an autonomous robot designed to relieve workers of manual delivery task
 
 ## Screenshots / Demo
 
-> _No screenshot available. Add one with: `![Demo](docs/your-image.png)`_
-
----
+## Available on [RAPID-Deployed](https://github.com/alexneilgreen/RAPID-Deployed).
 
 ## Results
 
