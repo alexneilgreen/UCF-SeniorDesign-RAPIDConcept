@@ -157,7 +157,7 @@ sudo apt install ros-humble-gazebo-ros-pkgs \
 
 # 3. Create a workspace and clone the repository
 mkdir -p ~/dev_ws/src && cd ~/dev_ws/src
-git clone https://github.com/alexneilgreen/UCF-SeniorDesign-RAPID.git my_bot
+git clone https://github.com/alexneilgreen/UCF-SeniorDesign-RAPIDConcept.git my_bot
 cd ~/dev_ws
 
 # 4. Build the package
